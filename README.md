@@ -10,7 +10,7 @@ This repository showcases a collection of my small projects, games, code snippet
 ## Games
 - Game  1: [Number Guessing Game]
   Description: A simple game which allows the user to guess a number randomly generated, from 1-100, by the computer.
-  Technologies: C++
+  Language: C++
 
 ## Code Snippets
 - Snippet 1: [Check compiler version ]
