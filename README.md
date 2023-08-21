@@ -20,4 +20,8 @@ This repository showcases a collection of my small projects, games, code snippet
 ## Projects
 - Project 1: [Simple ATM]
   Description: A simple ATM machine code project for beginners.
-  Language: C++ 
+  Language: C++
+- Project 2: [Sign Up Page Frontend]
+  Description: A basic sign up page with a logo on top of form.
+  Language: CSS, HTML
+  
