@@ -7,7 +7,7 @@ This repository showcases a collection of my small projects, games, code snippet
 - [Contributing](#contributing)
 - [License](#license)
   
-## ## Games
+## Games
 - Game  1: [Number Guessing Game]
   Description: A simple game which allows the user to guess a number randomly generated, from 1-100, by the computer.
   Technologies: C++
